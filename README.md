@@ -1,4 +1,4 @@
-# 👩‍🔬 Kim Yoojin | Electrical & Bio Convergence Researcher
+# 👩‍🔬 Kim YuJin | Electrical & Bio Convergence Researcher
 
 > **전기적 접근으로 생명현상을 정량화하는 융합형 연구자**  
 > 전기공학적 설계 능력과 생체신호 해석 역량을 바탕으로  
@@ -8,7 +8,7 @@
 
 ## 🧭 Profile
 
-- **이름:** 김유진 (Yujin Kim)  
+- **이름:** 김유진 (YuJin Kim)  
 - **전공:** 전기공학과 (B.S. in Electrical Engineering)  
 - **소속:** 광운대학교 (Kwangwoon University)  
 - **이메일:** uzinny04@naver.com  
