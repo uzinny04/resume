@@ -8,7 +8,7 @@
 
 ## 🧭 Profile
 
-- **이름:** 김유진 (Yoojin Kim)  
+- **이름:** 김유진 (Yujin Kim)  
 - **전공:** 전기공학과 (B.S. in Electrical Engineering)  
 - **소속:** 광운대학교 (Kwangwoon University)  
 - **이메일:** uzinny04@naver.com  
@@ -23,7 +23,7 @@
 
 ## 🧪 Research Experience
 
-### 🔹 **BIO25F Project (2025, 진행 중)**  
+### 🔹 **The Korean BioChip Society (2025, 진행 중)**  
 **_Electricity-Free, High-Throughput Urine Pretreatment for Rapid UTI Diagnosis in Resource-Limited Countries_**
 
 > 요로감염(UTI) 신속 진단을 위한 **전기 없이 구동되는 인체동력 기반 소변 전처리 장치 개발**
@@ -34,11 +34,9 @@
 - 장치 설계, 시제품 제작, 성능 측정, 데이터 분석까지 **전 과정 주도**
 - 연구 결과는 **정출연 협력 기반 응용 연구로 확장 예정**
 
-📎 *Supported by National Research Foundation (RS-2024-00350200)*
-
 ---
 
-### 🔹 **Poster Research (2024)**  
+### 🔹 **The Society of Micro and Nano Systems (2024)**  
 **_Interdigitated Microelectrode Sensor for Precise Monitoring of Cytokines Driving Aging-Related Inflammation_**
 
 > **TNF-α** 검출용 마이크로전극(IMEs) 기반 바이오센서 개발  
@@ -51,7 +49,6 @@
 - **실험 참여 및 데이터 취득** 담당  
 
 🏅 *2024 마이크로나노시스템학회 추계학술대회 장려상 수상*  
-📎 *Supported by MSIT Excellent Early-career Researcher Program (RS-2024-00350200)*
 
 ---
 
@@ -63,14 +60,14 @@
 | **데이터 처리 및 분석** | MATLAB, Python (NumPy, Pandas, Matplotlib) | 숙련 |
 | **임베디드 시스템 제어** | Arduino, 센서 인터페이싱 | 중급 |
 | **시뮬레이션 및 설계** | COMSOL Multiphysics (학습 중) | 초급 |
-| **문서화 및 협업** | Git, Markdown, Notion, LaTeX | 숙련 |
+| **문서화 및 협업** | Git, Markdown, Notion, LaTeX | 중급 |
 
 ---
 
 ## 🏫 Education
 
 - **광운대학교 전기공학과** — 학사 재학 중 *(2023.03 ~ 현재)*  
-  - 주요 과목: 회로이론, 전자기학, 센서공학, 신호처리, 나노공학  
+  - 주요 과목: 회로이론, 전자기학, 센서공학, 반도체공학  
   - 평균학점: 3.X / 4.5  
   - 학부연구생으로 **Biosensors & Microsystems Lab** 소속  
 
@@ -86,9 +83,9 @@
 
 ## 🌍 Activities
 
-### 🏙 **2025 Global Challenger Program (예정)**  
-**탐방 국가:** 네덜란드, 덴마크  
-**탐방 기관:** Amsterdam Smart City
+### 🏙 **2025 Global Challenger Program (준비 중)**  
+**탐방 국가:** 독일, 덴마크  
+**탐방 기관:** Fraunhofer ISE, DTU Energy  
 **탐방 주제:** 재생에너지 및 센서 네트워크 융합 기술 탐방  
 - 탐방 주제 기획 및 방문 기관 기술조사 담당  
 - 향후 결과물 GitHub & Notion에 업로드 예정
@@ -98,6 +95,7 @@
 ### 🌱 **H-점프스쿨 장학샘**  
 > *2025.03 ~ 현재*  
 - 중학생 대상 창의융합 과학 실험 수업 주 2회 운영  
+- 전기회로 및 간이 바이오센서 제작 실습 지도  
 - 과학적 호기심 기반 문제 해결형 수업 설계  
 
 ---
@@ -114,8 +112,10 @@
 
 ## 🗂 Appendix
 
-> **성장 및 실행 관리 문서 (Notion 연동)**   
-- [🗓 실행 일정표](https://www.notion.so/288e5a741a0280749b5fcf5a30282b2d?source=copy_link)  
+> **성장 및 실행 관리 문서 (Notion 연동)**  
+- [🗓 실행 일정표 (To-Do 리스트 관리)](https://www.notion.so/288e5a741a0280749b5fcf5a30282b2d?source=copy_link)  
 - [📁 GitHub Portfolio](https://github.com/uzinny04)
 
 ---
+
+⭐ *“전기공학의 언어로 생명현상을 해석하다.” — 김유진*
