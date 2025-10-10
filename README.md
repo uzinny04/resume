@@ -1,122 +1,121 @@
-# 🧭 상상이력서 (Imaginative Resume)
-> 전기공학 × 바이오의 융합형 인재, 임피던스 기반 바이오센서 연구자 지망생 김유진
- 
----
+# 👩‍🔬 Kim Yoojin | Electrical & Bio Convergence Researcher
 
-## 👩‍🔬 Profile
-
-| 항목 | 내용 |
-|------|------|
-| 이름 | 김유진 |
-| 전공 | 전기공학과 |
-| 소속 | 광운대학교 |
-| 이메일 | uzinny04@naver.com |
-| GitHub | [github.com/uzinny04](https://github.com/uzinny04) |
-| 관심 분야 | 바이오센서, 전기 임피던스 측정, 나노소자, 바이오 인터페이스 회로 |
-| 목표 | 정부출연연구소(ETRI, KIST, KRISS 등) 연구직 |
-| 한줄 요약 | 전기적 신호로 생체 변화를 감지하는 융합형 연구 인재 |
+> **전기적 접근으로 생명현상을 정량화하는 융합형 연구자**  
+> 전기공학적 설계 능력과 생체신호 해석 역량을 바탕으로  
+> 임피던스 기반 바이오센서 및 무전원 진단 시스템 연구를 수행합니다.
 
 ---
 
-## 🎓 Education
+## 🧭 Profile
 
-- **광운대학교 전기공학과** (2022.03 ~ 현재)  
-  - 전공 과목: 전자회로, 센서공학, 신호처리, 전기자기학, 마이크로시스템 등  
-  - 학부연구생 활동: **임피던스 기반 바이오센서 진단 플랫폼 연구 참여 중**
-  - H-점프스쿨 장학샘 (중학생 대상 교육 멘토링 활동)
-  - GPA: <!-- TODO: 추후 업데이트 예정 -->
-
----
-
-## 🔬 Research & Projects
-
-### 🧪 학부연구생 활동 — *임피던스 기반 바이오센서 연구*
-- **내용:** 전기 임피던스 측정을 활용하여 생체 시료의 반응 특성을 분석하는 센서 연구 참여  
-- **역할:** 측정 회로 구성, 실험 데이터 수집, 전극 패턴 설계 보조  
-- **성과:** 기초 전기적 특성 분석 및 신호 노이즈 보정 실험 수행  
-- **기술 스택:** MATLAB, LabVIEW, Python, Origin  
-- **향후 계획:** 나노구조 전극 기반의 전기화학적 바이오마커 검출 시스템 고도화  
-- **측정 장비:** <!-- TODO: 후속 입력 예정 (예: LCR meter, EIS analyzer 등) -->
+- **이름:** 김유진 (Yoojin Kim)  
+- **전공:** 전기공학과 (B.S. in Electrical Engineering)  
+- **소속:** 광운대학교 (Kwangwoon University)  
+- **이메일:** uzinny04@naver.com  
+- **GitHub:** [github.com/uzinny04](https://github.com/uzinny04)  
+- **관심 분야:**  
+  - 전기적 생체신호 측정 및 분석 (Electrical Bio-sensing)  
+  - MEMS / 나노바이오센서 설계  
+  - 무전원 의료기기 및 전기 임피던스 진단  
+  - 전력·센서 융합 시스템  
 
 ---
 
-### ⚙️ 전자회로 응용 설계 프로젝트
-- **주제:** 온습도 복합 감지 및 신호 처리 시스템 설계  
-- **내용:** 센서 신호를 OP-AMP 기반 회로로 증폭/필터링하여 마이크로컨트롤러로 처리  
-- **성과:** 노이즈 억제 설계 성공 및 ±3% 오차 이내의 안정적 출력 확보  
-- **기술:** OP-AMP, ADC/DAC, Proteus 시뮬레이션, LTspice
+## 🧪 Research Experience
+
+### 🔹 **BIO25F Project (2025, 진행 중)**  
+**_Electricity-Free, High-Throughput Urine Pretreatment for Rapid UTI Diagnosis in Resource-Limited Countries_**
+
+> 요로감염(UTI) 신속 진단을 위한 **전기 없이 구동되는 인체동력 기반 소변 전처리 장치 개발**
+
+- 인체동력 회전 구조 기반의 **2단계 여과 시스템 설계**
+- MATLAB을 이용한 **원심력 계산 및 회전 변수 최적화**
+- 50mL 고용량 시료 전처리 구현 → 기존 대비 5배 처리량 향상
+- 장치 설계, 시제품 제작, 성능 측정, 데이터 분석까지 **전 과정 주도**
+- 연구 결과는 **정출연 협력 기반 응용 연구로 확장 예정**
+
+📎 *Supported by National Research Foundation (RS-2024-00350200)*
 
 ---
 
-### 💡 H-점프스쿨 장학샘 활동
-- **대상:** 센터 방문 중학생  
-- **내용:** 주 2회 과학·수학 보충 수업 및 진로 멘토링  
-- **성과:** 학생별 포트폴리오 제작, 수업 참여율 향상(80% 이상)  
-- **의의:** 기술 연구자로서의 사회적 책임 의식과 의사소통 능력 강화
+### 🔹 **Poster Research (2024)**  
+**_Interdigitated Microelectrode Sensor for Precise Monitoring of Cytokines Driving Aging-Related Inflammation_**
+
+> **TNF-α** 검출용 마이크로전극(IMEs) 기반 바이오센서 개발  
+> 노화 관련 염증성 사이토카인 정밀 측정을 위한 전기화학 기반 실험 수행
+
+- 포토리소그래피 기반 MEMS 마이크로전극 제작  
+- 항체(TNF-α Ab) 기능화 후 임피던스 변화로 농도 검출  
+- **특이성 시험(Specificity Test)** 통해 TNF-α 선택성 검증  
+- IL-6, AXL, BDNF, IFN-γ 등 교차 반응 최소화 확인  
+- **실험 참여 및 데이터 취득** 담당  
+
+🏅 *2024 마이크로나노시스템학회 추계학술대회 장려상 수상*  
+📎 *Supported by MSIT Excellent Early-career Researcher Program (RS-2024-00350200)*
 
 ---
 
-## 💻 Technical Skills
+## 🧰 Technical Skills
 
-| 분야 | 기술 |
-|------|------|
-| 프로그래밍 | Python, MATLAB, Arduino |
-| 회로 설계 | LTspice, Proteus, Multisim |
-| 데이터 처리 | OriginPro, Excel, LabVIEW |
-| 문서화 | Markdown, LaTeX, MS Office |
-| 언어 | 한국어(모국어), 영어(논문 리딩 및 요약 가능, 시험 준비 중) |
-
----
-
-## 🧠 Vision & Future Plan
-
-> “전기적 신호로 생체의 변화를 읽고, 더 나은 진단 플랫폼을 설계하는 연구자.”
-
-- 전기공학 기반의 **바이오센서 전기적 측정 기술** 전문성 강화  
-- **석사 과정에서 바이오센서 표면화학 및 분자 인식 구조 분야** 연구 집중 예정  
-- **독일 Fraunhofer ISE 탐방:**  
-  학문적 견문 확장 및 유럽 연구소의 기술 접근 방식 학습 목적  
-- 정부출연연구소(KIST·KRISS·ETRI 등) 진출을 목표로 융합 센서 연구 역량 강화
+| 구분 | 내용 | 숙련도 |
+|------|------|--------|
+| **회로 설계 및 해석** | Multisim, LTspice | 중급 |
+| **데이터 처리 및 분석** | MATLAB, Python (NumPy, Pandas, Matplotlib) | 숙련 |
+| **임베디드 시스템 제어** | Arduino, 센서 인터페이싱 | 중급 |
+| **시뮬레이션 및 설계** | COMSOL Multiphysics (학습 중) | 초급 |
+| **문서화 및 협업** | Git, Markdown, Notion, LaTeX | 숙련 |
 
 ---
 
-## 🧾 Awards & Certifications
+## 🏫 Education
 
-- <!-- TODO: 향후 공모전, 자격증, 논문 실적 업데이트 예정 -->
-- 예비 계획: 캡스톤 디자인 및 학회 포스터 출품 (2025 하반기)
-
----
-
-## 🪴 To-Do List
-
-| 구분 | 목표 | 이유 | 기한 |
-|------|------|------|------|
-| 📚 학점 관리 | 전공평균 A 이상 유지 | 석사 진학 및 연구실 지원 경쟁력 확보 | 2025.12 |
-| 🔬 연구 강화 | 실험 설계 및 데이터 분석 역량 확립 | 연구소 진출 실무 대응력 강화 | 상시 |
-| 💬 영어 실력 | 공인 영어시험 준비 및 논문 요약 능력 강화 | 국제 협력 및 연구논문 대비 | 2026.03 |
-| 💻 GitHub 포트폴리오 | 연구 및 코드 관리용 Repository 구축 | 연구 이력 가시화 | 2025.11 |
-| 🧾 연구 성과 | 학부연구생 논문/캡스톤 출품 | 연구 실적 확보 | 2025.12 |
+- **광운대학교 전기공학과** — 학사 재학 중 *(2023.03 ~ 현재)*  
+  - 주요 과목: 회로이론, 전자기학, 센서공학, 신호처리, 나노공학  
+  - 평균학점: 3.X / 4.5  
+  - 학부연구생으로 **Biosensors & Microsystems Lab** 소속  
 
 ---
 
-## 🗓 Execution Schedule
+## 🏆 Awards
 
-| 월 | 주요 계획 | 진행 상태 |
-|----|-------------|------------|
-| 2025.10 | GitHub 레포지토리 개설 및 README 업로드 | ✅ 완료 |
-| 2025.11 | 실험 장비 운용 및 결과 정리 | 🔄 진행 중 |
-| 2025.12 | 영어 시험 응시 및 연구 포스터 제작 | ⏳ 예정 |
-| 2026.01 | 독일 Fraunhofer ISE 탐방 | ⏳ 준비 중 |
-| 2026.03 | 석사 진학 준비 및 영어 성적 제출 | ⏳ 예정 |
-| 2026.06 | 연구 성과 보고 및 공모전 제출 | ⏳ 예정 |
+| 연도 | 수상명 | 주관 | 내용 |
+|------|--------|------|------|
+| 2024 | **장려상** | 마이크로나노시스템학회 | TNF-α 모니터링용 IME 바이오센서 연구 |
 
 ---
 
-📎 **Reference**
-- [To-do 관리 예시](https://plok01234.tistory.com/150)
-- [스케줄 관리 예시](https://m.blog.naver.com/yoyoland/221754800065)
-- [모범 이력서 예시](https://github.com/JSpiner/RESUME)
+## 🌍 Activities
+
+### 🏙 **2025 Global Challenger Program (예정)**  
+**탐방 국가:** 네덜란드, 덴마크  
+**탐방 기관:** Amsterdam Smart City
+**탐방 주제:** 재생에너지 및 센서 네트워크 융합 기술 탐방  
+- 탐방 주제 기획 및 방문 기관 기술조사 담당  
+- 향후 결과물 GitHub & Notion에 업로드 예정
 
 ---
 
-> **© 2025 Yujin Kim (uzinny04) — 전기공학 × 바이오 융합형 연구자**
+### 🌱 **H-점프스쿨 장학샘**  
+> *2025.03 ~ 현재*  
+- 중학생 대상 창의융합 과학 실험 수업 주 2회 운영  
+- 과학적 호기심 기반 문제 해결형 수업 설계  
+
+---
+
+## 🎯 Future Plan
+
+> “공학의 정밀함으로 생체정보를 정량화하고, 의료 접근성을 향상시키는 연구자.”
+
+- 임피던스 기반 바이오센서 및 MEMS 응용 연구 심화  
+- 정출연(ETRI, KIST, KIMM 등) **바이오-전기 융합 연구직** 진출 목표  
+- GitHub 및 Notion을 통한 연구 공개·기록화 시스템 구축  
+
+---
+
+## 🗂 Appendix
+
+> **성장 및 실행 관리 문서 (Notion 연동)**   
+- [🗓 실행 일정표](https://www.notion.so/288e5a741a0280749b5fcf5a30282b2d?source=copy_link)  
+- [📁 GitHub Portfolio](https://github.com/uzinny04)
+
+---
